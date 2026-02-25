@@ -1,0 +1,2 @@
+# autopsy--autonomous-modular-growth-engine--amge-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Modular Growth Engine (AMGE)' FAILED.MASTER REFLECTION: QUALITY_SCORE: 1XP_AWARDED: 50NEW_TOPIC: - SKILLS: [system_design, multi-agent_coordination, deployment]METRICS:Coordination: 1 - No integration or usable output was produced for the ecosystem.ORIGINAL ERROR LOGS:Ollama model did not return
